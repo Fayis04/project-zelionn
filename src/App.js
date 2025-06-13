@@ -1222,7 +1222,7 @@ function Navbar() {
  <a href="#about">About</a>
  <a href="#products">Products</a>
  <a href="#testimonials">Testimonials</a>
-  <a href="#GallerySection">Gallery</a>
+  <a href="#Gallery-section">Gallery</a>
  <a href="#contact" className="contact-btn">Contact Us</a>
  </div>
  </nav>
